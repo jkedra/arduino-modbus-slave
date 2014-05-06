@@ -1,4 +1,4 @@
-arduino-modbus-slave
-====================
+Arduino Modbus RTU Slave
+========================
 
-This is Modbus RTU slave implementation for Arduino
+This is Modbus RTU slave implementation for Arduino.
