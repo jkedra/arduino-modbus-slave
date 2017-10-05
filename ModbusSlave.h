@@ -110,8 +110,8 @@ public:
   // CONSTRUCTORS
   // Default constructor: tx enable: pin 8, baud 9600, slave address 2
   //ModbusSlave();
-  ModbusSlave(HardwareSerial& s);
-  ModbusSlave(HardwareSerial& s, char txenpin, unsigned char slave);
+  ModbusSlave(HardwareSerial1& s);
+  ModbusSlave(HardwareSerial1& s, char txenpin, unsigned char slave);
 };
 
 #endif
